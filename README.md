@@ -1,2 +1,16 @@
-# sales-data-analysis
-Beginner data analysis project using Python, Pandas, and SQL.
+sales-data-analysis/
+│
+├── data/
+│   └── sales.csv
+│
+├── notebooks/
+│   └── sales_analysis.ipynb
+│
+├── sql/
+│   └── sales_queries.sql
+│
+├── src/
+│   └── analysis.py
+│
+├── README.md
+└── requirements.txt
