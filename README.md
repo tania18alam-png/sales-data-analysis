@@ -1,6 +1,5 @@
 # Sales Data Analysis
-
-A data analysis project using Python, Pandas, Jupyter Notebook, and SQL to analyze sales data and identify trends, patterns, and business insights.
+A beginner data analysis project using Python, Pandas, Jupyter Notebook, and SQL to explore sales data and calculate key sales metrics.
 ## Technologies Used
 
 - Python
@@ -10,7 +9,7 @@ A data analysis project using Python, Pandas, Jupyter Notebook, and SQL to analy
 - CSV
 ## Project Overview
 
-This project analyzes sales data to identify trends, patterns, and key business insights.
+This project explores sales data using Python, Pandas, and SQL to understand the dataset and calculate key sales metrics.
 
 ## Analysis Performed
 
