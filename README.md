@@ -12,10 +12,11 @@ A data analysis project using Python, Pandas, Jupyter Notebook, and SQL to analy
 
 This project analyzes sales data to identify trends, patterns, and key business insights.
 
-The analysis includes:
+## Analysis Performed
 
-- Cleaning and preparing sales data using Python and Pandas
-- Exploring sales data to identify trends and patterns
-- Using SQL queries to analyze sales information
-- Creating data visualizations to communicate findings
-- Summarizing key insights from the analysis
+The Python analysis includes:
+
+- Loading sales data from a CSV file using Pandas
+- Inspecting the first five rows of the dataset
+- Reviewing dataset information and structure
+- Calculating total revenue from the sales data
